@@ -4,4 +4,5 @@
     <string name="campo_correo">Ingresa correo</string>
     <string name="campo_contrasena">Ingresa contraseña</string>
     <string name="boton_login">INGRESAR</string>
+
 </resources>
