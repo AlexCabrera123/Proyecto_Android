@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="titulo">Hola Itic Ponys!</string>
-    <string name="correo">Ingresa correo</string>
-    <string name="contraseña">Ingresa contraseña</string>
-    <string name="ingresar">INGRESAR</string>
+    <string name="campo_correo">Ingresa correo</string>
+    <string name="campo_contrasena">Ingresa contraseña</string>
+    <string name="boton_login">INGRESAR</string>
 </resources>
