@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 if (email.equals(" ") || password.equals(" ")) {
                     Toast.makeText(getApplicationContext(), "FAVOR DE INGRESAR SU EMAIL Y CONTRASEÑA", Toast.LENGTH_LONG);
 
-                } else if (email.equals("alex") && password.equals(" 12345")) {
+                } else if (email.equals("alex") && password.equals("12345")) {
                     Toast.makeText(getApplicationContext(), " Bienvenido padrino" + email, Toast.LENGTH_LONG);
                     Intent intent = new Intent(getApplicationContext(), HomeActivity.class);
                     intent.putExtra("nombre","Alejandro Cabrera Aguilar");
